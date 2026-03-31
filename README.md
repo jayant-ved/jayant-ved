@@ -1,5 +1,8 @@
-## Hi there 👋
+Hi, I'm Jayant Ved 👋
+🎓 Computer Science Student
+📅 1st Year
 
+I hope to learn coding and other explore other technologies.
 <!--
 **jayant-ved/jayant-ved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
