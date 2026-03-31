@@ -1,5 +1,7 @@
 Hi, I'm Jayant Ved 👋
+
 🎓 Computer Science Student
+
 📅 1st Year
 
 I hope to learn coding and other explore other technologies.
